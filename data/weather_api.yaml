@@ -1,0 +1,13 @@
+live_dates_weather:
+    detail: 实况天气(1天)
+    url: "https://www.tianqiapi.com/api/"
+    headers:
+    payload:
+        appid: 53497812
+        appsecret: Ac3qbGsI
+        version: v6
+        cityid:
+        city:
+        ip:
+        callback:
+        vue:
